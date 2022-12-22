@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string-array name="movies">
+        <item>Avengers: Endgame</item> // https://en.wikipedia.org/wiki/Avengers:_Endgame
+        <item>Spider-Man: Far from Home</item> // https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home
+        <item>Joker</item> // https://en.wikipedia.org/wiki/Joker_(2019_film)
+        <item>Jumanji: The Next Level</item> // https://en.wikipedia.org/wiki/Jumanji:_The_Next_Level
+        <item>Interstellar</item> // https://en.wikipedia.org/wiki/Interstellar_(film)
+        <item>Venom</item> // https://en.wikipedia.org/wiki/Venom_(2018_film)
+        <item>Godzilla vs. Kong</item> // https://en.wikipedia.org/wiki/Godzilla_vs._Kong
+        <item>Inception</item> // https://en.wikipedia.org/wiki/Inception
+        <item>The Invisible Man</item> // https://en.wikipedia.org/wiki/The_Invisible_Man_(2020_film)
+    </string-array>
+    <string-array name="extramovieslink">
+        <item>https://www.youtube.com/watch?v=lHw-6AZvZ7I</item> // Avengers: Endgame
+        <item>https://www.youtube.com/watch?v=BA2LrQ7zPA0</item> // Spider-Man: Far from Home
+        <item>https://www.youtube.com/watch?v=WbliHNs4q14</item> // Joker
+        <item>https://www.youtube.com/watch?v=vW_fSIuE920</item> // Jumanji: The Next Level
+        <item>https://www.youtube.com/watch?v=-Gq5uxY_frk</item> // Interstellar
+        <item>https://www.youtube.com/watch?v=vi9m0JRo71I</item> // Venom
+        <item>https://www.youtube.com/watch?v=TtUG5s-mTF8</item> // Godzilla vs. Kong
+        <item>https://www.youtube.com/watch?v=mnsahVaa_0Q</item> // Inception
+        <item>https://www.youtube.com/watch?v=wnU7nUWgLnA</item> // The Invisible Man
+    </string-array>
+    <string-array name="wikimovies">
+        <item>https://en.wikipedia.org/wiki/Avengers:_Endgame</item> // Avengers: Endgame
+        <item>https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home</item> // Spider-Man: Far from Home
+        <item>https://en.wikipedia.org/wiki/Joker_(2019_film)</item> // Joker
+        <item>https://en.wikipedia.org/wiki/Jumanji:_The_Next_Level</item> // Jumanji: The Next Level
+        <item>https://en.wikipedia.org/wiki/Interstellar_(film)</item> // Interstellar
+        <item>https://en.wikipedia.org/wiki/Venom_(2018_film)</item> // Venom
+        <item>https://en.wikipedia.org/wiki/Godzilla_vs._Kong</item> // Godzilla vs. Kong
+        <item>https://en.wikipedia.org/wiki/Inception</item> // Inception
+        <item>https://en.wikipedia.org/wiki/The_Invisible_Man_(2020_film)</item> // The Invisible Man
+    </string-array>
+    <string-array name="movieslink">
+        <item>https://www.youtube.com/watch?v=TcMBFSGVi1c</item> // Avengers: Endgame
+        <item>https://www.youtube.com/watch?v=Nt9L1jCKGnE</item> // Spider-Man: Far from Home
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item> // Joker
+        <item>https://www.youtube.com/watch?v=rBxcF-r9Ibs</item> // Jumanji: The Next Level
+        <item>https://www.youtube.com/watch?v=2LqzF5WauAw</item> // Interstellar
+        <item>https://www.youtube.com/watch?v=u9Mv98Gr5pY</item> // Venom
+        <item>https://www.youtube.com/watch?v=odM92ap8_c0</item> // Godzilla vs. Kong
+        <item>https://www.youtube.com/watch?v=YoHD9XEInc0</item> // Inception
+        <item>https://www.youtube.com/watch?v=WO_FJdiY9dA</item> // The Invisible Man
+    </string-array>
+    <string-array name="directorswiki">
+        <item>https://en.wikipedia.org/wiki/Russo_brothers</item> //
+        <item>https://en.wikipedia.org/wiki/Jon_Watts</item> //
+        <item>https://en.wikipedia.org/wiki/Todd_Phillips</item> //
+        <item>https://en.wikipedia.org/wiki/Jake_Kasdan</item> //
+        <item>https://en.wikipedia.org/wiki/Christopher_Nolan</item> //
+        <item>https://en.wikipedia.org/wiki/Ruben_Fleischer</item> //
+        <item>https://en.wikipedia.org/wiki/Adam_Wingard</item> //
+        <item>https://en.wikipedia.org/wiki/Christopher_Nolan</item> //
+        <item>https://en.wikipedia.org/wiki/Leigh_Whannell</item> //
+    </string-array>
+    <string-array name="directors">
+        <item>Anthony Russo,Joe Russo</item> // https://en.wikipedia.org/wiki/Russo_brothers
+        <item>Jon Watts</item> // https://en.wikipedia.org/wiki/Jon_Watts
+        <item>Todd Phillips</item> // https://en.wikipedia.org/wiki/Todd_Phillips
+        <item>Jake Kasdan</item> // https://en.wikipedia.org/wiki/Jake_Kasdan
+        <item>Christopher Nolan</item> // https://en.wikipedia.org/wiki/Christopher_Nolan
+        <item>Ruben \nFleischer</item> // https://en.wikipedia.org/wiki/Ruben_Fleischer
+        <item>Adam Wingard</item> // https://en.wikipedia.org/wiki/Adam_Wingard
+        <item>Christopher Nolan</item> // https://en.wikipedia.org/wiki/Christopher_Nolan
+        <item>Leigh Whannell</item> // https://en.wikipedia.org/wiki/Leigh_Whannell
+    </string-array>
+</resources>
